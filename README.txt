@@ -1,6 +1,8 @@
 # Lebenslauf 1
 
-**Name:** Tim Schmidt
+![Ein Bild](index.jpg)
+
+**Name:** Tim Schmidt		
 
 Geburtsdatum 30.09.2000
 
