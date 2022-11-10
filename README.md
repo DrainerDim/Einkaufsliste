@@ -2,13 +2,18 @@
 
 ![Ein Bild](index.jpg)
 
-**Name:** Tim Schmidt		
+**Name:** Tim Sebastian Schmidt		
 
 Geburtsdatum 30.09.2000
+
+Adresse Ich wohne daheim
 
 Hobbys: Lesen, Zocken, Kochen und Volleyball
 
 E-Mail: hab_eine_email@web.de
 
+**Sie wollen mich in ihrer Firma haben weil ich viel arbeite.**
 
-**Sie wollen mich in ihrer Firma haben weil ich nicht arbeite.**
+Zitate: 
+    Kunde: Ist das die Krosse Krabbe?
+    Tim: Nein hier ist Patrick!
